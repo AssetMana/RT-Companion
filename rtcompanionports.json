@@ -1,0 +1,9 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": 8473,
+        "Ref": "RelayPort",
+        "Name": "Relay Port",
+        "Description": "Where the relay listens. Point your Cloudflare Tunnel (or proxied DNS record) at this port."
+    }
+]
